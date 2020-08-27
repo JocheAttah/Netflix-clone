@@ -1,7 +1,7 @@
 const API_KEY= "807ba2a3cf0352caf1d66354c4c053e6";
 
 
-// https://api.themoviedb.org/3
+
 
 const request ={
     fetchTrending: `/trending/all/day?api_key=${API_KEY}&language=en-US`,
