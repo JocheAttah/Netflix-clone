@@ -2,7 +2,7 @@
 
 ## Live
 Work in Progress
-[Deployed Here Live](https://instagramclonereact.netlify.app/)
+[Deployed Here Live](https://netflixclonereactfirebase.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
