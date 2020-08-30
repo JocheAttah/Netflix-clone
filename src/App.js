@@ -2,12 +2,12 @@ import React from 'react';
 import './App.css';
 import Row from './Components/Row';
 import request from './helper/request';
-
+import Banner from './Components/Banner';
 function App() {
   return (
-    <div className="App">
+    <div className="app">
     {/* Navbar */}
-    {/* banner */}
+    <Banner />
     
 
 
